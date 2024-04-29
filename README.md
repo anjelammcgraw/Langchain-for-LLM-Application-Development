@@ -1,2 +1,15 @@
-# Langchain-for-LLM-Applications-Development
-Using LLMS for various use cases: Prompts, Parsers, Memories, Chains, Q&amp;A for data, &amp; Agents
+# 🤖 Langchain for LLM Application Development
+
+In this repo, we'll be working through expanding the use cases and capabilities of language models in application development using the LangChain framework. We'll use LLMS for various use cases: Prompts, Parsers, Memories, Chains, Q&A for data, & Agents
+
+### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1Gwaz3slF8Jx5zlkW5_RK3bD43kFchVSX?usp=sharing)
+
+# ⚙️The Build Process (Deliverables)
+
+### Build 🏗️
+
+* Models, Prompts and Parsers: calling LLMs, providing prompts and parsing the response
+* Memories for LLMs: memories to store conversations and manage limited context space
+* Chains: creating sequences of operations
+* Question Answering over Documents: apply LLMs to your proprietary data and use case requirements
+* Agents: explore the powerful emerging development of LLM as reasoning agents.
